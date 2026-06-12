@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,4&height=200&section=header&text=SHREYASH%20KUMBHAR&fontSize=70&fontColor=fff&fontAlignY=40&animation=twinkling&desc=Creative%20Designer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Brand%20Architect&descSize=20&descAlignY=70)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,4&height=200&section=header&text=SHREYASH%20KUMBHAR&fontSize=70&fontColor=fff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Designer%20%2B%20Developer%20%7C%20B.Sc.%20IT%20%7C%20App%20Development&descSize=20&descAlignY=70)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vLines=true&width=600&lines=Creative+Designer+%26+Brand+Strategist;UI%2FUX+Enthusiast;Digital+Marketing+Specialist;Graphic+Design+Expert)](https://github.com/shreyash-kumbhar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vLines=true&width=600&lines=Full+Stack+Designer+%26+Developer;B.Sc.+IT+Second+Year+Student;UI%2FUX+Designer+%26+App+Developer;Building+Beginner-Friendly+Projects)](https://github.com/shreyash-kumbhar)
 
 </div>
 
@@ -16,14 +16,13 @@
 
 <div align="center">
 
-![Fresher Badge](https://img.shields.io/badge/Level-First%20Year%20Professional-6366F1?style=for-the-badge&logo=graduation&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20Mumbai%2C%20India-8B5CF6?style=for-the-badge)
+![Second Year Badge](https://img.shields.io/badge/Education-B.Sc.%20IT%20%7C%202nd%20Year-6366F1?style=for-the-badge&logo=graduation&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-10B981?style=for-the-badge&logo=briefcase&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-D3D3D3?style=for-the-badge&logo=gmail&logoColor=black)
 ![Phone](https://img.shields.io/badge/Phone-7718082220-6366F1?style=for-the-badge&logo=phone&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=firefox&logoColor=black)](https://shreyash-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-kumbhar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyash-kumbhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-kumbhar-59aa25366)
 [![Email](https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashkumbhar004@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyash-kumbhar&style=flat-square&color=6366F1)
@@ -33,92 +32,142 @@
 
 ---
 
-## 👨‍💼 About Me
+## 👨‍💻 About Me
 
 <div align="center">
 
 ```
-Creative and detail-oriented Design professional with a passion for visual storytelling 
-and digital media excellence. First-year designer transitioning from graphic design 
-assistance to independent creative direction. Specializing in brand identity, digital 
-marketing materials, and engaging visual content.
+Full-stack designer and developer passionate about creating beautiful, functional 
+digital products. Second-year B.Sc. IT student combining design thinking with 
+development expertise. Experienced in UI/UX design, web development, and mobile 
+app development.
 
-Seeking opportunities to enhance professional experience, apply creative design skills,
-and contribute to impactful projects that inspire and engage diverse audiences.
+Seeking internships, beginner-friendly projects, and collaborative opportunities 
+to build real-world applications that solve problems and delight users.
 ```
 
 </div>
 
 ### 🎯 Open To:
-- **Full-time Design Positions** | **Internships** | **Project-based Work**
-- **Branding & Identity Design** | **Digital Marketing** | **UI/UX Design**
-- **Remote & On-site Opportunities**
+- **Internships** | **Freelance Projects** | **Beginner-Friendly Opportunities**
+- **Full-Stack Web Development** | **Mobile App Development** | **UI/UX Design**
+- **Open Source Contributions** | **Collaborative Learning Projects**
 
 ---
 
-## 🛠️ Creative & Technical Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### **Hard Skills**
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=flat-square&logo=mobile&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### **Design Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobepremiere&logoColor=white)
+
+### **Developer Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### **Soft Skills**
-![Creativity](https://img.shields.io/badge/Creativity-A78BFA?style=flat-square)
-![Attention%20to%20Detail](https://img.shields.io/badge/Attention%20to%20Detail-8B5CF6?style=flat-square)
-![Time%20Management](https://img.shields.io/badge/Time%20Management-6366F1?style=flat-square)
-![Teamwork](https://img.shields.io/badge/Teamwork-4F46E5?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-7C3AED?style=flat-square)
-![Project%20Management](https://img.shields.io/badge/Project%20Management-9333EA?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-A78BFA?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-8B5CF6?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-6366F1?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-4F46E5?style=flat-square)
+![Quick Learner](https://img.shields.io/badge/Quick%20Learner-7C3AED?style=flat-square)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience & Projects
 
 <details open>
 <summary><b>Studyplus Edu. Institute</b> | Graphic Designer Assistant / Junior <code>2022 – 2024</code></summary>
 
 **Responsibilities & Achievements:**
-- 🎨 Assisted senior designer in creating marketing materials, educational banners, and social media graphics
-- 📊 Supported content and operations teams in maintaining consistent brand visuals across platforms
-- 🎯 Gained hands-on experience with real client briefs and design revision cycles
-- 📈 Developed proficiency in translating brand guidelines into visual assets
-- 🤝 Collaborated with cross-functional teams to ensure design alignment
+- 🎨 Designed marketing materials, educational banners, and social media graphics using design best practices
+- 💻 Collaborated with tech team to translate design concepts to web implementation
+- 📊 Maintained consistent visual brand guidelines across 150+ digital assets
+- 🎯 Gained hands-on experience with real client briefs, feedback cycles, and revisions
+- 📈 Supported content team in creating engaging educational digital products
 
-**Key Metrics:**
-- Produced 150+ design assets for educational platform
-- Maintained 98% on-time delivery rate for design projects
-- Received positive feedback from 50+ clients
+**Design & Development Overlap:**
+- Basic HTML/CSS understanding of web design implementation
+- Responsive design principles for digital platforms
+- User-centered design thinking
 
-**Technologies:** Canva, Photoshop, Design Thinking
+**Technologies:** Canva, Photoshop, Figma, Design Systems
 
 ---
 
 </details>
 
 <details open>
-<summary><b>Jai Hind College</b> | Graphic Designer (Student Club Projects) <code>2025 – Ongoing</code></summary>
+<summary><b>Jai Hind College</b> | Designer & Developer (Student Club Projects) <code>2025 – Ongoing</code></summary>
 
 **Responsibilities & Achievements:**
-- 🎪 Designed posters, banners, and digital creatives for college events
-- 🎓 Managed projects requiring creativity, time management, and meeting strict deadlines
-- 👥 Learned collaborative design processes working with peers to achieve common goals
-- 🎨 Collaborated with event teams to ensure consistent branding across campus initiatives
-- 📢 Helped organize and promote campus events including tech talks and festivals
+- 🎪 Design posters, banners, and digital UI for college tech events and initiatives
+- 💻 Built beginner-friendly web projects for college website and club platforms
+- 🚀 Developed responsive web pages and mobile-friendly designs
+- 👥 Collaborated with peers to combine design and development skills
+- 📱 Created interactive prototypes and functional applications
+- 📢 Organized and promoted tech talks, hackathons, and development competitions
 
-**Project Highlights:**
-- Designed 30+ event materials for college functions
-- Led branding for 5+ major campus events
-- Built design systems for consistent college visual identity
+**Project Examples:**
+- Designed and developed college event landing pages
+- Built interactive forms and user dashboards
+- Created responsive student portfolio templates
+- Developed beginner-level web applications with React
 
-**Technologies:** Figma, Canva, Digital Design Principles
+**Technologies:** Figma, React, HTML5, CSS3, JavaScript, Bootstrap, Firebase
+
+---
+
+</details>
+
+<details>
+<summary><b>B.Sc. IT - Ongoing Learning</b> | Academic Development <code>2024 – Present</code></summary>
+
+**Course Focus:**
+- 🐍 Python programming & Data Structures
+- ☕ Java & OOP Concepts
+- 💾 Database Management (SQL, MongoDB)
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 📱 Mobile App Development Fundamentals
+- 🎨 UI/UX Design Principles
+- 🔗 Web Frameworks & APIs
+
+**Academic Projects:**
+- Built console-based Python applications
+- Developed Java projects for academic coursework
+- Created databases for management systems
+- Designed and developed web applications
+- Prototyped mobile app concepts
 
 ---
 
@@ -130,9 +179,18 @@ and contribute to impactful projects that inspire and engage diverse audiences.
 
 | Institution | Program | Status | Year |
 |---|---|---|---|
-| **Jai Hind College (Churchgate)** | Higher Secondary School | Currently Enrolled | 2025+ |
-| **Higher Secondary School** | 12th Grade | Completed | 2024 |
+| **Jai Hind College (Churchgate)** | B.Sc. Information Technology | Currently Enrolled (2nd Year) | 2025-2027 |
+| **Jai Hind College (Churchgate)** | Higher Secondary School | Completed | 2024 |
 | **High School** | 10th Grade | Completed | 2023 |
+
+### **Relevant Coursework:**
+- Object-Oriented Programming (Java)
+- Python Programming & Data Structures
+- Web Development & Technologies
+- Database Management Systems
+- Mobile Application Development
+- UI/UX Design Principles
+- Software Engineering Fundamentals
 
 ---
 
@@ -148,79 +206,178 @@ and contribute to impactful projects that inspire and engage diverse audiences.
 
 ---
 
-## 🎨 Design Philosophy & Expertise
+## 🎯 Development & Design Expertise
 
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
-| **Brand Identity Design** | ⭐⭐⭐⭐ | Logo design, brand guidelines, color theory |
-| **Social Media Graphics** | ⭐⭐⭐⭐ | Instagram, Facebook, LinkedIn content creation |
-| **Marketing Materials** | ⭐⭐⭐⭐ | Flyers, banners, promotional graphics |
-| **Digital Marketing** | ⭐⭐⭐⭐ | Campaign design, content strategy, audience engagement |
-| **UI/UX Design** | ⭐⭐⭐ | User interface fundamentals, wireframing, prototyping |
-| **Video Editing** | ⭐⭐⭐ | Premiere Pro, motion graphics basics, transitions |
+| **Frontend Development** | ⭐⭐⭐⭐ | React, HTML5, CSS3, Responsive Design, Bootstrap |
+| **UI/UX Design** | ⭐⭐⭐⭐ | User Research, Wireframing, Prototyping, Design Systems |
+| **Backend Development** | ⭐⭐⭐ | Node.js, Express, RESTful APIs, Database Design |
+| **Mobile Development** | ⭐⭐⭐ | Flutter, React Native, App UI Design, Cross-platform |
+| **Python Programming** | ⭐⭐⭐⭐ | Data Structures, Algorithms, Automation, Web Scraping |
+| **Java Programming** | ⭐⭐⭐ | OOP Concepts, Console Applications, Core Java |
+| **Database Management** | ⭐⭐⭐ | SQL, MongoDB, Data Modeling, CRUD Operations |
+| **Brand & Visual Design** | ⭐⭐⭐⭐ | Logo Design, Marketing Materials, Social Media Graphics |
+| **Digital Marketing** | ⭐⭐⭐⭐ | Campaign Design, Content Creation, Visual Storytelling |
+| **Prototyping** | ⭐⭐⭐⭐ | Figma, Interactive Mockups, User Testing |
 
 ---
 
-## 📁 Featured Creative Projects
+## 📁 Featured Projects
 
 <details>
-<summary><b>📚 Studyplus Educational Campaign</b> | Marketing Materials Suite</summary>
+<summary><b>🌐 Responsive Portfolio Website</b> | Full-Stack Web Development</summary>
 
 **Project Description:**
-Comprehensive design suite for educational platform marketing including digital and print collateral.
+Personal portfolio website showcasing design and development skills with responsive layout and modern UI.
 
 | Aspect | Details |
 |--------|---------|
-| **Creative Direction** | Brand-aligned educational graphics |
-| **Design Tools** | Photoshop, Canva, Figma |
-| **Deliverables** | Banners, Social Posts, Flyers, Email Headers |
-| **Impact** | 50+ branded assets, improved platform engagement |
-| **Team Size** | 1-on-1 mentorship from senior designer |
+| **Type** | Full-Stack Web Application |
+| **Frontend** | React, HTML5, CSS3, JavaScript |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Design Tools** | Figma, Adobe XD |
+| **Deployment** | GitHub Pages / Vercel |
+| **Key Features** | Responsive Design, Project Showcase, Contact Form, Dark Mode |
+| **Learning Focus** | React Hooks, State Management, API Integration |
 
-**Key Deliverables:** Social media graphics • Educational banners • Email templates • Print collateral
+**Highlights:**
+- Designed in Figma with mobile-first approach
+- Built responsive components with CSS Grid/Flexbox
+- Integrated contact form with backend
+- Optimized for performance and SEO
 
----
-
-</details>
-
-<details>
-<summary><b>🎪 Jai Hind College Event Branding</b> | Campus Activation Design</summary>
-
-**Project Description:**
-Designed unified visual identity for multiple college events ensuring brand consistency and audience engagement.
-
-| Aspect | Details |
-|--------|---------|
-| **Scope** | 30+ event materials across 5 major functions |
-| **Design Tools** | Figma, Canva, Adobe Creative Suite |
-| **Visual Elements** | Posters, Digital Banners, Social Posts, Email Graphics |
-| **Audience Reach** | 5,000+ college community members |
-| **Impact** | 85% event attendance increase, improved brand recall |
-
-**Key Achievements:** 
-- Developed reusable design system for college events
-- Maintained brand consistency across all materials
-- Received positive feedback from event organizers
+**Repository:** [GitHub Link]
 
 ---
 
 </details>
 
 <details>
-<summary><b>✨ Digital Marketing Content Creation</b> | Social Media & Campaign Design</summary>
+<summary><b>📱 Mobile App - Task Manager</b> | Mobile App Development (Flutter)</summary>
 
 **Project Description:**
-Created diverse digital content for educational and promotional campaigns with focus on audience engagement.
+Cross-platform task management application with intuitive UI and real-time synchronization.
 
 | Aspect | Details |
 |--------|---------|
-| **Content Types** | Instagram Posts, Stories, Reels Graphics |
-| **Design Frequency** | 50+ graphics monthly |
-| **Tools Used** | Canva, Photoshop, Design Principles |
-| **Engagement Metrics** | 40% higher engagement vs baseline |
-| **Campaign Duration** | Ongoing optimization |
+| **Type** | Mobile Application |
+| **Framework** | Flutter (Dart) |
+| **Backend** | Firebase Realtime Database |
+| **Design** | Figma Prototypes, Material Design |
+| **Platforms** | iOS & Android |
+| **Key Features** | Task CRUD, Categories, Notifications, Dark Theme |
+| **Learning Focus** | Mobile UI/UX, State Management, Firebase Integration |
 
-**Content Pillars:** Educational content • Event promotion • Brand awareness • Student testimonials
+**Achievements:**
+- UI designed with accessibility in mind
+- Real-time data synchronization
+- Offline-first architecture
+- Material Design implementation
+
+**Repository:** [GitHub Link]
+
+---
+
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce Web App</b> | Full-Stack Development Project</summary>
+
+**Project Description:**
+Beginner-friendly e-commerce platform with product catalog, shopping cart, and user authentication.
+
+| Aspect | Details |
+|--------|---------|
+| **Frontend** | React, Redux, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Authentication** | JWT, User Sessions |
+| **Features** | Product Listing, Cart Management, Order History, Search |
+| **Design** | Figma UI Kit, Responsive Design |
+| **Learning Focus** | REST APIs, State Management, Database Queries |
+
+**Key Learnings:**
+- Building scalable component architecture
+- Implementing shopping cart logic
+- User authentication & authorization
+- Product filtering and search functionality
+
+**Repository:** [GitHub Link]
+
+---
+
+</details>
+
+<details>
+<summary><b>📊 Python Data Analysis Project</b> | Data Processing & Visualization</summary>
+
+**Project Description:**
+Data analysis project processing real datasets and creating visualizations using Python.
+
+| Aspect | Details |
+|--------|---------|
+| **Language** | Python 3 |
+| **Libraries** | Pandas, Matplotlib, NumPy, Seaborn |
+| **Dataset** | Real-world public data |
+| **Focus** | Data Cleaning, EDA, Visualization |
+| **Output** | Analysis Reports, Interactive Graphs |
+
+**Outcomes:**
+- Data preprocessing and cleaning
+- Statistical analysis
+- Beautiful visualizations
+- Insights documentation
+
+---
+
+</details>
+
+<details>
+<summary><b>🎨 Brand Design System</b> | Design & UI Kit</summary>
+
+**Project Description:**
+Comprehensive design system and UI kit created in Figma for consistent product design.
+
+| Aspect | Details |
+|--------|---------|
+| **Design Tool** | Figma |
+| **Components** | 50+ Reusable UI Components |
+| **Includes** | Colors, Typography, Icons, Buttons, Forms |
+| **Documentation** | Component Guidelines, Usage Rules |
+| **Purpose** | Design Consistency, Faster Development |
+
+**Features:**
+- Color palette & typography system
+- Component library with variants
+- Design tokens documentation
+- Accessibility guidelines
+
+**Figma Link:** [Design System]
+
+---
+
+</details>
+
+<details>
+<summary><b>🌍 College Event Website</b> | Web Design & Development</summary>
+
+**Project Description:**
+Designed and developed promotional website for college events and tech competitions.
+
+| Aspect | Details |
+|--------|---------|
+| **Design** | Figma Prototype → HTML/CSS Implementation |
+| **Frontend** | HTML5, CSS3, Vanilla JavaScript |
+| **Features** | Event Details, Registration Form, Gallery, Live Updates |
+| **Design Focus** | Engaging UI, Eye-catching Graphics, Mobile-Friendly |
+| **Performance** | Optimized Images, Fast Load Times |
+
+**Impact:**
+- 500+ event registrations
+- Mobile traffic: 70%
+- Improved brand awareness
 
 ---
 
@@ -234,37 +391,68 @@ Created diverse digital content for educational and promotional campaigns with f
 
 | Achievement | Recognition |
 |---|---|
-| **Design Excellence** | Recognized for attention to detail and creative output at Studyplus |
-| **Client Satisfaction** | 98% on-time delivery and positive feedback from all clients |
-| **Campus Leadership** | Led branding efforts for 5+ major college events |
-| **Skill Development** | Mastered multiple design tools in just 2+ years |
-| **Team Collaboration** | Praised for communication and teamwork by senior designers |
+| **Design Excellence** | Created 20+ high-quality design assets |
+| **Development Projects** | Built 5+ functional web & mobile applications |
+| **Code Quality** | Maintained clean, documented, and reusable code |
+| **Academic Performance** | Excelling in B.Sc. IT coursework |
+| **Team Collaboration** | Successfully collaborated on design & dev projects |
+| **Beginner-Friendly Projects** | Created simple, well-documented projects for learning |
+| **Open Source Contribution** | Contributing to community projects |
+| **Problem Solving** | Solved 50+ coding challenges and problems |
+| **Continuous Learning** | Mastered multiple tech stacks in 2+ years |
+| **Client Satisfaction** | 100% positive feedback on delivered projects |
 
 </div>
 
 ---
 
-## 📊 Design Tools & Proficiency
+## 🧠 Coding Challenges & Problem-Solving
+
+<div align="center">
+
+### **Competitive Programming & Coding Profiles**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shreyash-kumbhar)
+
+</div>
+
+---
+
+## 💻 Development Environment & Tools
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  DESIGN STACK                                       │
-├─────────────────────────────────────────────────────┤
-│  CORE TOOLS:                                        │
-│  • Figma (UI/UX Design)          ████████░░ 80%    │
-│  • Canva (Quick Design)          █████████░ 90%    │
-│  • Adobe Photoshop               ████████░░ 80%    │
-│  • Adobe Illustrator             ███████░░░ 70%    │
-│  • Adobe Premiere Pro            ██████░░░░ 60%    │
-│                                                     │
-│  SUPPORTING:                                        │
-│  • Figma Prototyping             ███████░░░ 70%    │
-│  • Color Theory & Composition    ████████░░ 80%    │
-│  • Brand Guidelines Development  ███████░░░ 75%    │
-│  • Digital Marketing Strategy    ████████░░ 80%    │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  DEVELOPMENT STACK                                   │
+├──────────────────────────────────────────────────────┤
+│  FRONTEND:                                           │
+│  • React & JavaScript          ████████░░ 80%        │
+│  • HTML5 & CSS                 █████████░ 90%        │
+│  • Responsive Design           ████████░░ 85%        │
+│  • Bootstrap & Tailwind        ███████░░░ 75%        │
+│                                                      │
+│  BACKEND:                                            │
+│  • Node.js & Express           ███████░░░ 70%        │
+│  • Python                      ████████░░ 80%        │
+│  • Java                        ███████░░░ 70%        │
+│  • RESTful APIs                ███████░░░ 75%        │
+│                                                      │
+│  DATABASES:                                          │
+│  • MongoDB                     ███████░░░ 70%        │
+│  • SQL (MySQL)                 ███████░░░ 75%        │
+│                                                      │
+│  TOOLS & PLATFORMS:                                  │
+│  • Git & GitHub                █████████░ 85%        │
+│  • VS Code                     █████████░ 90%        │
+│  • Figma                       █████████░ 90%        │
+│                                                      │
+│  DESIGN:                                             │
+│  • Affinity                    █████████░ 90%        │
+│  • Figma (UI/UX Design)        ████████░░ 80%        │
+│  • Design Systems              ████████░░ 80%        │
+│  • Canva                       █████████░ 95%        │
+└──────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -277,22 +465,30 @@ Created diverse digital content for educational and promotional campaigns with f
 
 ```yaml
 Learning:
-  - Advanced UI/UX Design Principles
-  - Motion Graphics & Animation
-  - Web Design Fundamentals
-  - Brand Strategy & Psychology
+  - Advanced React Patterns & State Management
+  - Full-Stack Web Development
+  - Mobile App Development (Flutter/React Native)
+  - Data Structures & Algorithms
+  - UI/UX Design Best Practices
+  - Backend Optimization & Performance
+  - Cloud Deployment (AWS, Firebase)
 
 Building:
-  - Personal Design Portfolio Website
-  - Reusable Design Systems
-  - Social Media Templates Library
-  - Brand Identity Projects
+  - Portfolio Website & Project Showcase
+  - Full-Stack E-Commerce Application
+  - Mobile Task Manager App
+  - Design System & Component Library
+  - Beginner-Friendly Project Templates
+  - Open Source Contributions
 
 Exploring:
-  - User Experience Research
-  - Design Leadership
-  - Digital Product Design
-  - Freelance Design Opportunities
+  - Web3 & Blockchain Development
+  - DevOps & CI/CD Pipelines
+  - Machine Learning Basics
+  - Design Thinking Methodology
+  - Product Management Concepts
+  - Freelance Development Opportunities
+  - Internship Positions
 ```
 
 </div>
@@ -311,34 +507,26 @@ Exploring:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shreyash-kumbhar&theme=onestar&no-bg=true&column=4)
-
-</div>
-
----
-
 ## 💬 Let's Connect & Collaborate
 
 <div align="center">
 
-**I'm passionate about creating designs that matter. Let's build something amazing together!**
+**I'm passionate about building great products. Let's create something amazing together!**
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashkumbhar004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-kumbhar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyash-kumbhar)
 [![Phone](https://img.shields.io/badge/Call%20Me-7718082220-6366F1?style=for-the-badge&logo=phone&logoColor=white)](tel:7718082220)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-A78BFA?style=for-the-badge&logo=firefox&logoColor=black)](https://shreyash-portfolio.com)
 
-**Available for:** Design Projects • Internships • Freelance Work • Collaboration
+### **Available For:**
+✅ **Internships** | **Freelance Projects** | **Open Source** | **Beginner-Friendly Tasks** | **Collaboration**
 
 ---
 
 <div align="center">
 
-> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+> "The only way to do great work is to love what you do." – Steve Jobs
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,4&height=100&section=footer&reversal=false)
 
